@@ -1,5 +1,5 @@
-## Hi I'm Samodra 👋
-<br>
+## Hi there, 👋
+<br>  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saamodra/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saamodra)
@@ -9,21 +9,18 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:szsamodra@gmail.com)
 <br>
 
+I am Samodra. You can call me Sam. I am from Ponorogo, ID. I love to do web development and open to learning new technologies.
+
 ### A little about myself:
 - 🧑 I'm 19 years old. 
 - 🏠 I live in Jakarta, ID.
-- 🎓 Currently studying Information System.
+- 🎓 Currently studying Information Systems.
 - ☕ Sometimes i like coffee.
-- 💬 Ask me about anything, I am happy to help.
-
 <br>
 
-<!--
-**saamodra/saamodra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 
 <em>NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats</em>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saamodra&layout=compact)](https://github.com/saamodra)
+
+ ⭐️ From [Samodra](https://github.com/saamodra)
