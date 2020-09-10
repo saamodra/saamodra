@@ -1,4 +1,4 @@
-## Hi there, 👋
+## Hi, I'm Samodra 👋
 <br>  
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saamodra/)
@@ -8,8 +8,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/saamodra)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:szsamodra@gmail.com)
 <br>
-
-I am Samodra. You can call me Sam. I am from Ponorogo, ID. I love to do web development and open to learning new technologies.
 
 ### A little about myself:
 - 🧑 I'm 19 years old. 
