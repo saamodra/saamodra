@@ -10,10 +10,9 @@
 <br>
 
 ### A little about myself:
-- 🧑 I'm 19 years old. 
-- 🏠 I live in Jakarta, ID.
+- 🧑 I'm 20 years old. 
+- 🏠 I live in Ponorogo, ID.
 - 🎓 Currently studying Information Systems.
-- ☕ Sometimes i like coffee.
 <br>
 
 
