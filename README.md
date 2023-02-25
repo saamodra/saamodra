@@ -22,7 +22,7 @@ I'm **Sam**odra, a Software Engineer and Computer Science student.
 
 -   :man: Pronouns: he/him
 -   :hammer_and_pick:  React / Rails / Laravel
--   :pencil2: [Ubuntu](https://wiki.ubuntu.com/) / [Polybar](https://github.com/polybar/polybar) / [i3wm](https://i3wm.org/) / [Neovim](https://neovim.io/) / [IdeaVim](https://github.com/JetBrains/ideavim) / [nnn](https://github.com/jarun/nnn) / [zsh](https://ohmyz.sh/)
+-   :pencil2: [Ubuntu](https://wiki.ubuntu.com/) / [polybar](https://github.com/polybar/polybar) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [IdeaVim](https://github.com/JetBrains/ideavim) / [ranger](https://github.com/ranger/ranger) / [zsh](https://ohmyz.sh/)
 -   :seedling: Taking courses & doing assignments as a student
 
 
