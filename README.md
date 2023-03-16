@@ -13,8 +13,8 @@
  <a href="https://www.facebook.com/saamodra">
    <img src="https://img.shields.io/badge/-@saamodra-1877F2?style=flat-square&amp;labelColor=fff&amp;logo=Facebook&amp;link=https://www.facebook.com/saamodra" alt="Website Badge">
  </a>
- <a href="https://samodra.my.id">
-   <img src="https://img.shields.io/badge/-samodra.my.id-FB542B?style=flat-square&amp;labelColor=fff&amp;logo=Brave&amp;link=https://samodra.my.id" alt="Website Badge">
+ <a href="https://samodra.me">
+   <img src="https://img.shields.io/badge/-samodra.me-FB542B?style=flat-square&amp;labelColor=fff&amp;logo=Brave&amp;link=https://samodra.me" alt="Website Badge">
  </a>
 </p>
 
